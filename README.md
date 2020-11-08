@@ -4,7 +4,7 @@
 __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
 **On this page I keep my data science projects and other related docucmets** 
 __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
-💬 I like to talk about data wrangling and stastical models. 
+
 📫 If you have any question feel free to email me at arubalmuhanna@gmail.com 
 
 <!--
