@@ -2,10 +2,10 @@
 
 **Welcome to Arub Almuhanna's Github Profile** 
 ______________________________________________________________________________
-**On this page I keep my data science project and other related docucmets** 
+**On this page I keep my data science projects and other related docucmets** 
 ______________________________________________________________________________
 
-If you have any questions feel free to email me at arubalmuhanna@gmail.com 
+If you have any question feel free to email me at arubalmuhanna@gmail.com 
 
 <!--
 **ArubAlmuhanna/ArubAlmuhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
