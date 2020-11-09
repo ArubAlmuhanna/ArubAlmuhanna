@@ -1,11 +1,13 @@
 ### Hello!
 
-**Welcome to Arub Almuhanna's Github Profile** 
+**Welcome to my Portfolio** 
 __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
 **On this page I keep my data science projects and other related docucmets** 
 __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
 
 📫 If you have any question feel free to email me at arubalmuhanna@gmail.com 
+
+Arub Almuhanna 
 
 <!--
 **ArubAlmuhanna/ArubAlmuhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
