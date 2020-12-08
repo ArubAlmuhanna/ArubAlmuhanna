@@ -6,7 +6,6 @@ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
 
 
 
-![https://www.linkedin.com/in/arub-al-muhanna/](https://user-images.githubusercontent.com/67848891/101542167-7efa4100-39f6-11eb-8cdd-724d4dde5605.png)
 
 
 <!--
