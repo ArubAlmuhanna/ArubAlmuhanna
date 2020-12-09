@@ -1,7 +1,7 @@
 
 **Arub Almuhanna's Portfolio** 
 __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
-**On this page I keep my data science projects and other related docucmets** 
+**This is my portfolio of my data science projects** 
 __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ 
 
 
